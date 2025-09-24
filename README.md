@@ -42,18 +42,18 @@
 
 ### 🧪 Testing & Misc  
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) 
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge) 
+
 ### 💻 OS & Environments  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 
-## 💡 Fun Facts  
-
-- 🎯 2025 Goal: Build and deploy my first full-stack web app  
-- 📖 Currently learning: Advanced Node.js + Express.js  
-- ☕ Runs on coffee & late-night coding sessions  
+---
+## 📊 GitHub Overview
+![Utitbest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utitbest&show_icons=true&theme=radical)
 
 ---
+## 🚀 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utitbest&layout=compact&theme=radical)
 
 ## 📫 Connect With Me  
 
@@ -63,8 +63,16 @@
 - 📱 [WhatsApp](https://wa.me/2348063308044) 
 ---
 
-⭐️ “Code. Learn. Share.” – My journey is about growth and contribution.  
+<div align="center" style="border: 2px solid #5865F2; border-radius: 10px; padding: 15px; background-color: #0D1117; margin: 20px 0;">
 
+🔥 **Debugging Truth**
+
+*"It's not a bug - it's an undocumented feature."*
+
+**- Anonymous**
+
+</div>
+  
 
 <!--
 **Utitbest/Utitbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
