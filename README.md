@@ -19,10 +19,14 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
 
 ### 🖥 Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-4F46E5?logo=convex&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white) 
 
 ### 🗄 Databases & Caching  
